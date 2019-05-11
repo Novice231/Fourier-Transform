@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1556340492 source:e:\ctest\fourier2\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<time.h>
-
